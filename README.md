@@ -65,7 +65,7 @@ python src/infer.py --resume-file path/to/resume.txt
 
 ## Training Details
 
-- **Base Model**: `microsoft/DialoGPT-medium` (345M parameters)
+- **Base Model**: `google/gemma-3-270M` (345M parameters)
 - **Fine-tuning**: LoRA with rank 16, alpha 32
 - **Training**: Causal language modeling with masked prompt tokens
 - **Hardware**: Works on single GPU or CPU (slower)
