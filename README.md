@@ -1,6 +1,6 @@
 # Resume Summarizer
 
-A fine-tuned language model that generates concise summaries of resumes using DialoGPT-medium and LoRA (Low-Rank Adaptation).
+A fine-tuned language model that generates concise summaries of resumes using Gemma-3-270M and LoRA (Low-Rank Adaptation).
 
 ## Features
 
