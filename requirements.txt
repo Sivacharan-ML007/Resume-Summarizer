@@ -1,0 +1,12 @@
+torch>=2.2.0
+transformers>=4.38.0
+huggingface_hub>=0.21.0
+peft>=0.10.0
+datasets>=2.18.0
+accelerate>=0.28.0
+sentencepiece>=0.1.99
+protobuf>=3.2.0
+
+numpy>=1.26.0
+pandas>=2.0.0
+tqdm>=4.66.0
