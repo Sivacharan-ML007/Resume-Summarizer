@@ -76,7 +76,7 @@ python src/infer.py --resume-file path/to/resume.txt
 
 | Parameter | Default | Description |
 |-----------|---------|-------------|
-| `num-epochs` | 3 | Number of training epochs |
+| `num-epochs` | 10 | Number of training epochs |
 | `batch-size` | 4 | Training batch size |
 | `learning-rate` | 2e-4 | Learning rate |
 | `max-length` | 1024 | Maximum sequence length |
